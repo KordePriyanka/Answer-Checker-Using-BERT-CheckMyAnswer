@@ -5,9 +5,9 @@ An CheckMyAnswer is a machine learning tool designed to assess the subjective an
 ![image](https://github.com/KordePriyanka/Answer-Checker-CheckMyAnswer-/assets/98102061/8dd7ba5b-c3b4-4de9-872b-8fae2323d167)
 
 ## Requirements
-Google Colaboratory
-Python Version 3.9
-Flask for Deployment
+- Google Colaboratory
+- Python Version 3.9
+- Flask for Deployment
 
 ## Output
 ## Home Page
